@@ -188,7 +188,7 @@ export default LoginPage
 📚 Documentación Oficial: https://docs.cypress.io
 🎯 Ejemplos: https://github.com/cypress-io/cypress-example-kitchensink
 💡 Mejores Prácticas: https://docs.cypress.io/guides/references/best-practices
-📚 Contenido educativo digital de apuntes: https://docs.google.com/spreadsheets/d/1zSLmARh84RwaDwMXtzPICMWd_c9C1CsnbOuv9pXgvJk/edit?usp=sharing
+📝 Contenido educativo digital de apuntes: https://docs.google.com/spreadsheets/d/1zSLmARh84RwaDwMXtzPICMWd_c9C1CsnbOuv9pXgvJk/edit?usp=sharing
 
 ✨ Creado por: PamStem - QA Automation Coach
 📅 Última actualización: 01.12.2025
