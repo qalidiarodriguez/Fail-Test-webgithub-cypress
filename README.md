@@ -61,4 +61,19 @@ This project is part of the QA Automation 1:1 Coaching Program, focusing on prac
 📄 License
 This project is for educational purposes. Feel free to use it as a reference for your own automation projects!
 
+## 🔄 De Test Manual a Automatizado
+
+Guía rápida para transformar casos de prueba manuales en scripts de automatización con Cypress:
+
+📝 **Ver la guía completa**: [Google Sheets - Transición Manual a Automatizado](https://docs.google.com/spreadsheets/d/1zSLmARh84RwaDwMXtzPICMWd_c9C1CsnbOuv9pXgvJk/edit?usp=sharing)
+
+**Pasos clave:**
+1. **Identifica** el flujo crítico a automatizar
+2. **Desglosa** cada paso manual en comandos de Cypress
+3. **Mapea** elementos de la UI con selectores estables
+4. **Implementa** verificaciones (assertions) para cada paso
+5. **Ejecuta y refina** basado en los resultados
+
+*(Documentación incluida en el repositorio: `cypress/support/transition-guide.js`)*
+
 Created with 💜 by Qalidia Rodriguez, PamStem, Qa Queen.
